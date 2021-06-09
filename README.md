@@ -7,7 +7,7 @@ La visualización final ha sido publicado en Tableau Public. Ésta representa di
 
 ##Data
 
-EL Data set utilizado y transformado parte del siguiente repositorio:
+El Data set utilizado y transformado parte del siguiente repositorio:
 https://www.kaggle.com/ploverbrown/world-bank-indicators-collection
 
 Donde se extrajo el archivo:
