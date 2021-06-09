@@ -14,13 +14,19 @@ Donde se extrajo el archivo:
 PopulationDataWorldBank.xlsx -Archivo original
 
 Otros archivos:
+
 Education.xlsx -Filtrado de la hoja necesaria del archivo principal
+
 practica 2 visualització.rmd -Código utilizado para limpiar los datos
+
 final.txt
+
 final.xlsx -Datos finales antes de la visualización
 
 ## Documentos
+
 El proceso de visualización se detalla en el documento:
+
 Pràctica 2 visualitzacion.pdf
 
 
