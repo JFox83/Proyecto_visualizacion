@@ -6,6 +6,7 @@ El siguiente trabajo muestra el proceso de elaboración de una visualización de
 La visualización final ha sido publicado en Tableau Public. Ésta representa distintos datos de enseñanza superior como porcentaje de mujeres/hombres con máster, doctorado, número de matrículas, ... en el año 2018.
 
 ##Data
+
 EL Data set utilizado y transformado parte del siguiente repositorio:
 https://www.kaggle.com/ploverbrown/world-bank-indicators-collection
 
